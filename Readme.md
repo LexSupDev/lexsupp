@@ -1,1 +1,1 @@
-# Личный сайт-портфолио Суппес Алексея [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Личный сайт-портфолио Суппес Алексея

@@ -1,6 +1,2 @@
-body {
-    @media(min-width: 320px) {
-        width: 320px;
-        margin: 0 auto;
-    } 
-}
+@import "general.scss";
+@import "block/header.scss";

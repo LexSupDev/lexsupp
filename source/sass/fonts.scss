@@ -1,21 +1,21 @@
 @font-face {
   font-family: 'Gilroy';
-  src: url('Gilroy-ExtraBold.eot');
+  src: url('../fonts/');
   src: local('Gilroy ExtraBold'), local('Gilroy-ExtraBold'),
-      url('Gilroy-ExtraBold.eot?#iefix') format('embedded-opentype'),
-      url('Gilroy-ExtraBold.woff') format('woff'),
-      url('Gilroy-ExtraBold.ttf') format('truetype');
+      url('../fonts/?#iefix') format('embedded-opentype'),
+      url('../fonts/Gilroy-ExtraBold.woff') format('woff'),
+      url('../fonts/Gilroy-ExtraBold.ttf') format('truetype');
   font-weight: 800;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Gilroy';
-  src: url('Gilroy-Light.eot');
+  src: url('../fonts/Gilroy-Light.eot');
   src: local('Gilroy Light'), local('Gilroy-Light'),
-      url('Gilroy-Light.eot?#iefix') format('embedded-opentype'),
-      url('Gilroy-Light.woff') format('woff'),
-      url('Gilroy-Light.ttf') format('truetype');
+      url('../fonts/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Gilroy-Light.woff') format('woff'),
+      url('../fonts/Gilroy-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }

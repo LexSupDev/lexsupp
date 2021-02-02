@@ -1,0 +1,10 @@
+@mixin list-style--none {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+@mixin nolink {
+  text-decoration: none;
+  color: #000000;
+}

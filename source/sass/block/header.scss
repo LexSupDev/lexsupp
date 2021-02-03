@@ -42,7 +42,7 @@
 
 .main-nav__item {
   margin-bottom: 25px;
-  font-family: "Gilroy ExtraBold", "Arial", sans-serif;
+  font-family: "Gilroy ExtraBold", Arial, sans-serif;
   font-size: 18px;
   text-transform: uppercase;
   font-weight: 800;
@@ -54,10 +54,6 @@
 
 .main-nav__link {
   @include nolink;
-}
-
-.menu-social {
-
 }
 
 .menu-social__list {
